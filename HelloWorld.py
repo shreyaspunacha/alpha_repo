@@ -1,1 +1,1 @@
-print "Hello, World"
+print "Gretings Earth! We come in peace."
